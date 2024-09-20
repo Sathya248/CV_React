@@ -37,6 +37,20 @@ const ProjectContainer = () => {
       desc: "These pairs can make the game a bit more challenging and fun! Let me know if you did like more options!",
       link: "https://sathya248.github.io/Guess-the-Number.Js/",
     },
+
+    {
+      img: "https://wallpaperaccess.com/full/1489353.jpg",
+      title: "To Do List",
+      desc: "These pairs can make the game a bit more challenging and fun! Let me know if you did like more options!",
+      link: "https://github.com/Sathya248/To-Do-List-React.git",
+    },
+    
+    {
+      img: "https://img.freepik.com/free-photo/top-view-notebooks-calculator_23-2149103982.jpg",
+      title: "Calculator",
+      desc: "These pairs can make the game a bit more challenging and fun! Let me know if you did like more options!",
+      link: " https://sathya248.github.io/Calculator-Js/",
+    },
     
   
     
